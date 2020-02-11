@@ -1,0 +1,14 @@
+C:\Users\JohnP\source\repos\restClient\obj\Debug\restClient.csprojAssemblyReference.cache
+C:\Users\JohnP\source\repos\restClient\obj\Debug\restClient.Form1.resources
+C:\Users\JohnP\source\repos\restClient\obj\Debug\restClient.Properties.Resources.resources
+C:\Users\JohnP\source\repos\restClient\obj\Debug\restClient.csproj.GenerateResource.cache
+C:\Users\JohnP\source\repos\restClient\bin\Debug\restClient.exe.config
+C:\Users\JohnP\source\repos\restClient\bin\Debug\restClient.exe
+C:\Users\JohnP\source\repos\restClient\bin\Debug\restClient.pdb
+C:\Users\JohnP\source\repos\restClient\obj\Debug\restClient.exe
+C:\Users\JohnP\source\repos\restClient\obj\Debug\restClient.pdb
+C:\Users\JohnP\source\repos\restClient\bin\Debug\Flurl.dll
+C:\Users\JohnP\source\repos\restClient\bin\Debug\Flurl.xml
+C:\Users\JohnP\source\repos\restClient\obj\Debug\restClient.csproj.CopyComplete
+C:\Users\JohnP\source\repos\restClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JohnP\source\repos\restClient\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,14 @@
+C:\Users\JohnP\source\repos\restClient\bin\Release\restClient.exe.config
+C:\Users\JohnP\source\repos\restClient\bin\Release\restClient.exe
+C:\Users\JohnP\source\repos\restClient\bin\Release\restClient.pdb
+C:\Users\JohnP\source\repos\restClient\bin\Release\Flurl.dll
+C:\Users\JohnP\source\repos\restClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\JohnP\source\repos\restClient\bin\Release\Flurl.xml
+C:\Users\JohnP\source\repos\restClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.csprojAssemblyReference.cache
+C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.Form1.resources
+C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.Properties.Resources.resources
+C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.csproj.GenerateResource.cache
+C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.csproj.CopyComplete
+C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.exe
+C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.pdb
