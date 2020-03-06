@@ -36,6 +36,12 @@ namespace restClient {
             resOut(JsonConvert.SerializeObject(versions, Formatting.Indented));
         }
 
+        private void bPG_Click(object sender, EventArgs e) {
+            PgAPI pgAPI = new PgAPI();
+            String mainPage = pgAPI.get_main();
+            }
+
+
 
         private void btnObjects_Click_1(object sender, EventArgs e) {
             resOut("Getting ...");
@@ -60,5 +66,7 @@ namespace restClient {
             imageBox.ImageLocation = url;
 
         }
-    }
+
+
+        }
 }

@@ -12,3 +12,13 @@ C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.csproj.GenerateRes
 C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.csproj.CopyComplete
 C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.exe
 C:\Users\JohnP\source\repos\restClient\obj\Release\restClient.pdb
+C:\DEV\csharp\csharpapp\bin\Release\Flurl.dll
+C:\DEV\csharp\csharpapp\bin\Release\Newtonsoft.Json.dll
+C:\DEV\csharp\csharpapp\bin\Release\Flurl.xml
+C:\DEV\csharp\csharpapp\bin\Release\Newtonsoft.Json.xml
+C:\DEV\csharp\csharpapp\obj\Release\restClient.csprojAssemblyReference.cache
+C:\DEV\csharp\csharpapp\obj\Release\restClient.Form1.resources
+C:\DEV\csharp\csharpapp\obj\Release\restClient.Properties.Resources.resources
+C:\DEV\csharp\csharpapp\obj\Release\restClient.csproj.GenerateResource.cache
+C:\DEV\csharp\csharpapp\obj\Release\restClient.exe
+C:\DEV\csharp\csharpapp\obj\Release\restClient.pdb

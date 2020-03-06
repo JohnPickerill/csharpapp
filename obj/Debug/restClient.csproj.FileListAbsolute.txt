@@ -12,3 +12,17 @@ C:\Users\JohnP\source\repos\restClient\bin\Debug\Flurl.xml
 C:\Users\JohnP\source\repos\restClient\obj\Debug\restClient.csproj.CopyComplete
 C:\Users\JohnP\source\repos\restClient\bin\Debug\Newtonsoft.Json.dll
 C:\Users\JohnP\source\repos\restClient\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\csharp\csharpapp\bin\Debug\restClient.exe.config
+C:\DEV\csharp\csharpapp\bin\Debug\restClient.exe
+C:\DEV\csharp\csharpapp\bin\Debug\restClient.pdb
+C:\DEV\csharp\csharpapp\bin\Debug\Flurl.dll
+C:\DEV\csharp\csharpapp\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\csharp\csharpapp\bin\Debug\Flurl.xml
+C:\DEV\csharp\csharpapp\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\csharp\csharpapp\obj\Debug\restClient.csprojAssemblyReference.cache
+C:\DEV\csharp\csharpapp\obj\Debug\restClient.Form1.resources
+C:\DEV\csharp\csharpapp\obj\Debug\restClient.Properties.Resources.resources
+C:\DEV\csharp\csharpapp\obj\Debug\restClient.csproj.GenerateResource.cache
+C:\DEV\csharp\csharpapp\obj\Debug\restClient.csproj.CopyComplete
+C:\DEV\csharp\csharpapp\obj\Debug\restClient.exe
+C:\DEV\csharp\csharpapp\obj\Debug\restClient.pdb
