@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -13,6 +15,8 @@ namespace restClient {
     public partial class Form1 : Form {
 
         DocsAPI docsApi = new DocsAPI("http://localhost:9995/", "STUB", "titleplan");
+
+        PgAPI pgAPI = new PgAPI();
 
         public Form1() {
             InitializeComponent();
@@ -36,9 +40,16 @@ namespace restClient {
             resOut(JsonConvert.SerializeObject(versions, Formatting.Indented));
         }
 
+
+
         private void bPG_Click(object sender, EventArgs e) {
-            PgAPI pgAPI = new PgAPI();
-            String mainPage = pgAPI.get_main();
+           //
+           String mainPage = pgAPI.get_main();
+
+
+
+
+ 
             }
 
 

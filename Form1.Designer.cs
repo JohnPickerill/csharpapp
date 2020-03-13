@@ -36,6 +36,7 @@ namespace restClient
             this.imageBox = new System.Windows.Forms.PictureBox();
             this.btnImage = new System.Windows.Forms.Button();
             this.bPG = new System.Windows.Forms.Button();
+            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             ((System.ComponentModel.ISupportInitialize)(this.imageBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,7 +49,7 @@ namespace restClient
             this.tbResponse.Multiline = true;
             this.tbResponse.Name = "tbResponse";
             this.tbResponse.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.tbResponse.Size = new System.Drawing.Size(548, 287);
+            this.tbResponse.Size = new System.Drawing.Size(159, 287);
             this.tbResponse.TabIndex = 1;
             // 
             // btnTitles
@@ -97,10 +98,10 @@ namespace restClient
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.imageBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.imageBox.Location = new System.Drawing.Point(602, 88);
+            this.imageBox.Location = new System.Drawing.Point(213, 88);
             this.imageBox.MaximumSize = new System.Drawing.Size(180, 280);
             this.imageBox.Name = "imageBox";
-            this.imageBox.Size = new System.Drawing.Size(180, 280);
+            this.imageBox.Size = new System.Drawing.Size(51, 280);
             this.imageBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.imageBox.TabIndex = 6;
             this.imageBox.TabStop = false;
@@ -156,6 +157,7 @@ namespace restClient
         private System.Windows.Forms.PictureBox imageBox;
         private System.Windows.Forms.Button btnImage;
         private System.Windows.Forms.Button bPG;
+        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
         }
 }
 
